@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 - Clock Angle", "1 - Clock Angle.csproj", "{012C3AE7-EDDC-42A8-9ABF-68BBC9AF9FB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{012C3AE7-EDDC-42A8-9ABF-68BBC9AF9FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012C3AE7-EDDC-42A8-9ABF-68BBC9AF9FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012C3AE7-EDDC-42A8-9ABF-68BBC9AF9FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012C3AE7-EDDC-42A8-9ABF-68BBC9AF9FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4C419DE-D3FA-41F5-B3C0-AEB5143DB757}
+	EndGlobalSection
+EndGlobal
