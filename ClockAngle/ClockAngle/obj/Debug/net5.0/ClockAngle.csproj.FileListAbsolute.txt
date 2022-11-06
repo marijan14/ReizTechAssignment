@@ -1,0 +1,16 @@
+C:\Users\User-PC\Desktop\ReizTech Assignment\ClockAngle\ClockAngle\bin\Debug\net5.0\ClockAngle.exe
+C:\Users\User-PC\Desktop\ReizTech Assignment\ClockAngle\ClockAngle\bin\Debug\net5.0\ClockAngle.deps.json
+C:\Users\User-PC\Desktop\ReizTech Assignment\ClockAngle\ClockAngle\bin\Debug\net5.0\ClockAngle.runtimeconfig.json
+C:\Users\User-PC\Desktop\ReizTech Assignment\ClockAngle\ClockAngle\bin\Debug\net5.0\ClockAngle.runtimeconfig.dev.json
+C:\Users\User-PC\Desktop\ReizTech Assignment\ClockAngle\ClockAngle\bin\Debug\net5.0\ClockAngle.dll
+C:\Users\User-PC\Desktop\ReizTech Assignment\ClockAngle\ClockAngle\bin\Debug\net5.0\ref\ClockAngle.dll
+C:\Users\User-PC\Desktop\ReizTech Assignment\ClockAngle\ClockAngle\bin\Debug\net5.0\ClockAngle.pdb
+C:\Users\User-PC\Desktop\ReizTech Assignment\ClockAngle\ClockAngle\obj\Debug\net5.0\ClockAngle.csproj.AssemblyReference.cache
+C:\Users\User-PC\Desktop\ReizTech Assignment\ClockAngle\ClockAngle\obj\Debug\net5.0\ClockAngle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-PC\Desktop\ReizTech Assignment\ClockAngle\ClockAngle\obj\Debug\net5.0\ClockAngle.AssemblyInfoInputs.cache
+C:\Users\User-PC\Desktop\ReizTech Assignment\ClockAngle\ClockAngle\obj\Debug\net5.0\ClockAngle.AssemblyInfo.cs
+C:\Users\User-PC\Desktop\ReizTech Assignment\ClockAngle\ClockAngle\obj\Debug\net5.0\ClockAngle.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Desktop\ReizTech Assignment\ClockAngle\ClockAngle\obj\Debug\net5.0\ClockAngle.dll
+C:\Users\User-PC\Desktop\ReizTech Assignment\ClockAngle\ClockAngle\obj\Debug\net5.0\ref\ClockAngle.dll
+C:\Users\User-PC\Desktop\ReizTech Assignment\ClockAngle\ClockAngle\obj\Debug\net5.0\ClockAngle.pdb
+C:\Users\User-PC\Desktop\ReizTech Assignment\ClockAngle\ClockAngle\obj\Debug\net5.0\ClockAngle.genruntimeconfig.cache
